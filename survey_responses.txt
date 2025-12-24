@@ -1,0 +1,6 @@
+
+I would summarize my activity during this time period as follows:
+In the Dec 16–31 period, I extended my Syracuse civic data project by analyzing crime patterns by hour and weekday. I created visualizations to identify temporal hotspots and documented key insights.
+
+Upon reflection, this project is allowing me to learn or refine the following STEM-related skills:
+I am enhancing my skills in time-series analysis, data visualization using Matplotlib, and civic data storytelling. I’m also applying best practices in reproducibility and GitHub project structure.

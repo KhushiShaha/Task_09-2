@@ -1,0 +1,21 @@
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+
+# Environment files
+.env
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace files
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
